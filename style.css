@@ -1,0 +1,18 @@
+#app {
+    background-color: lime;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#game {
+    background-color: slateblue;
+}
+
+body {
+    text-align: center;
+}
